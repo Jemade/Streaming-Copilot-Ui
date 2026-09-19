@@ -340,3 +340,4 @@ Tests cover:
 1. **Persistent Conversation History**: Back conversation trees with PostgreSQL or SQLite.
 2. **Audio/Multimodal Streaming**: Support incoming audio chunks via WebRTC or WebSocket.
 3. **Multi-Agent Branching**: Allow users to branch off previous messages to explore alternative completions.
+# Streaming-Copilot-Ui
