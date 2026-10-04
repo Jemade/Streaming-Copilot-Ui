@@ -38,3 +38,11 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Local runtime and private configuration
+.mypy_cache/
+.ruff_cache/
+.env.*.local
+*.db
+*.sqlite
+*.sqlite3
