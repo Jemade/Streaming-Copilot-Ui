@@ -64,3 +64,9 @@ See [demo notes](docs/demo.md) and [CI](https://github.com/Jemade/Streaming-Copi
 ## Current scope
 
 Development-provider results demonstrate the streaming transport and UI; they are not model inference. Generation and conversation state are process-local and reset on restart.
+
+## Engineering and contribution guide
+
+Read the [engineering notes](docs/ENGINEERING.md) for implementation boundaries and verification commands, the [review checklist](docs/REVIEW_CHECKLIST.md) for evidence still required, and [CONTRIBUTING.md](CONTRIBUTING.md) to propose changes. Report vulnerabilities through [SECURITY.md](SECURITY.md).
+
+[![Repository hygiene](https://github.com/Jemade/Streaming-Copilot-Ui/actions/workflows/repository-hygiene.yml/badge.svg)](https://github.com/Jemade/Streaming-Copilot-Ui/actions/workflows/repository-hygiene.yml)
